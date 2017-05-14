@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome"
+    >
+   <TextView 
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:padding="5dp"
+       android:layout_alignParentBottom="true"
+       android:layout_marginBottom="35dp"
+       android:text="Designed by the studio of miyang"
+       android:textSize="15sp"
+       android:textColor="#2f9ba7"
+       android:gravity="center"
+       />
+</RelativeLayout>

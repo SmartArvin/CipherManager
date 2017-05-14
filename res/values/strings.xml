@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CipherManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="story">有人说，一个密码一段故事，很多人的密码里面都藏着另一半的身影。\n岁月的流逝，一点一点将她/他的身影拖出我们的记忆，埋进时光的沙里，沉入无际。\n你的密码，你的故事，留下你的记忆，留下TA</string>
+	<color name="anycolor">#00bbff</color>
+	
+</resources>

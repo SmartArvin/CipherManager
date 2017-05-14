@@ -1,0 +1,33 @@
+# view AndroidManifest.xml #generated:58
+-keep class com.miyang.ciphermanager.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.miyang.ciphermanager.CategoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.miyang.ciphermanager.CategoryContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.miyang.ciphermanager.CreateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.miyang.ciphermanager.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.miyang.ciphermanager.LikeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.miyang.ciphermanager.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.miyang.ciphermanager.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.miyang.ciphermanager.SafeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.miyang.ciphermanager.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.miyang.ciphermanager.WelcomePage { <init>(...); }
+
